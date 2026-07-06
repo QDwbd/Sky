@@ -1,0 +1,5 @@
+requests>=2.32.4
+lxml>=6.0.0
+html2text>=2025.4.15
+beautifulsoup4>=4.13.4
+Pillow>=11.3.0
