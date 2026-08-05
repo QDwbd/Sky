@@ -1,13 +1,13 @@
-2026-08-04 16:51:08,973 - /home/runner/work/Sky/Sky/main.py [line:214] - INFO: 爬取开始ing......
-2026-08-04 16:51:10,474 - /home/runner/work/Sky/Sky/main.py [line:228] - INFO: 共获取到 8 条链接.
-2026-08-04 16:51:36,659 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
-2026-08-04 16:51:40,352 - /home/runner/work/Sky/Sky/main.py [line:75] - INFO: 图片压缩成功 1.17MB q=90
-2026-08-04 16:51:43,649 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
-2026-08-04 16:51:46,231 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
-2026-08-04 16:52:03,733 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
-2026-08-04 16:52:20,735 - /home/runner/work/Sky/Sky/main.py [line:75] - INFO: 图片压缩成功 1.51MB q=90
-2026-08-04 16:52:28,795 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
-2026-08-04 16:52:44,689 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
-2026-08-04 16:52:56,572 - /home/runner/work/Sky/Sky/main.py [line:148] - INFO: README.md 已覆盖更新：每日任务
-2026-08-04 16:52:56,573 - /home/runner/work/Sky/Sky/main.py [line:245] - INFO: 已推送最新文章到 Telegram: 每日任务
-2026-08-04 16:52:56,573 - /home/runner/work/Sky/Sky/main.py [line:248] - INFO: 处理完成!
+2026-08-05 13:22:33,210 - /home/runner/work/Sky/Sky/main.py [line:214] - INFO: 爬取开始ing......
+2026-08-05 13:22:34,818 - /home/runner/work/Sky/Sky/main.py [line:228] - INFO: 共获取到 8 条链接.
+2026-08-05 13:23:06,411 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+2026-08-05 13:23:10,894 - /home/runner/work/Sky/Sky/main.py [line:75] - INFO: 图片压缩成功 1.17MB q=90
+2026-08-05 13:23:14,826 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+2026-08-05 13:23:16,927 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+2026-08-05 13:23:36,029 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+2026-08-05 13:23:53,836 - /home/runner/work/Sky/Sky/main.py [line:75] - INFO: 图片压缩成功 1.51MB q=90
+2026-08-05 13:24:03,357 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+2026-08-05 13:24:18,973 - /home/runner/work/Sky/Sky/main.py [line:106] - WARNING: Tg媒体发送失败(0.00MB): {"ok":false,"error_code":400,"description":"Bad Request: PHOTO_INVALID_DIMENSIONS"}
+2026-08-05 13:24:31,342 - /home/runner/work/Sky/Sky/main.py [line:148] - INFO: README.md 已覆盖更新：每日任务
+2026-08-05 13:24:31,342 - /home/runner/work/Sky/Sky/main.py [line:245] - INFO: 已推送最新文章到 Telegram: 每日任务
+2026-08-05 13:24:31,342 - /home/runner/work/Sky/Sky/main.py [line:248] - INFO: 处理完成!
